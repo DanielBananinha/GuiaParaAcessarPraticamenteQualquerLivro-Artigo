@@ -107,7 +107,7 @@ __O Libgen também tem artigos?__
 __Foi dito que o Library Genesis hospeda livros enviados por usuários. Isso significa que eu posso enviar livros?__
      ◦ Exatamente! É só acessar libgen.is/libarian (username: genesis, password: upload) e você verá as regras e instruções (e.g., sem marcas d'água, apenas alguns formatos, etc.). Você pode remover marcas d'água com o Adobe Acrobat Pro, e você pode remover DRM (Digital rights management = Gestão de direitos digitais, vulgo policiais em código) com this (VitalSource ePub instructions here).
     
-__O site está me solicitando nome de usuário = username e senha = password? Por quê__
+__O site está me solicitando nome de usuário = username e senha = password? Por quê?__
       ◦ O 'username' é 'genesis' e a 'password' é 'upload'. A Library Genesis recentemente implementou recentemente uma fila de envio para controle de qualidade, portanto os envios que ainda não passaram pela fila só podem ser acessados através do library.bz, que é protegido por senha. Após passar pela fila (o que não demora mais que um dia graças aos voluntários anônimos), eles podem ser acessados pelo site normal.
       
 
