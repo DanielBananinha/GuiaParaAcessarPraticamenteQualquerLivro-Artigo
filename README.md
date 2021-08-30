@@ -133,7 +133,7 @@ Lá você deve criar um 'CREDENTIALS_FILE', basta usar:
 
               nano 'CREDENTIALS_FILE'
               
-lá você simplesmente escreverá as credencials da sua conta primeum no scribd, isto é:
+lá você simplesmente escreverá as credenciais da sua conta premium no scribd, isto é:
 
                  'seu email'
                  'senha'
