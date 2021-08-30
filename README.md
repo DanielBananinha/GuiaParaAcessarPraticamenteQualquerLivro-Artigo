@@ -11,7 +11,7 @@ Piotr Kropotkin
 
 **SAPERE AUDE**
                                                                 
-
+__Uma tradução do [Guide to Finding Articles/Books](https://docs.google.com/document/d/1ZwWs8JOrlkrrqiHwkQSwc4_NM85Zbzc9t9ifQ1rHZgM/edit) com algumas adições. Em construção__
 
 **Sci-Hub**
  
@@ -74,6 +74,8 @@ __Eu tenho acesso à uma base de dados que o Sci-Hub não possui. Posso ajudar o
         ◦ Espero que sim! Tente mandar um email para Alexandra Elbakyan enviar uma mensagem no facebook.
         
 **Library Genesis** [Wikipédia](https://pt.wikipedia.org/wiki/Library_Genesis)
+
+A maior e mais resiliente biblioteca virtual. Focado em livros de não-ficção, principalmente acadêmicos. Mas possui também artigos, revistas em quadrinhos e ficção. Os materiais de ficção estão misturados entre o acervo princípal, Sci-Tech, que está configurado por padrão, e o acervo específico de ficção, recomenda-se buscar em ambos.
 
 __GUIA PARA ENCONTRAR LIVROS__
 
