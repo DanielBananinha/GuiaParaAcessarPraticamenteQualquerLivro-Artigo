@@ -1,6 +1,6 @@
 ![Screenshot at 2021-08-29 20-42-38](https://user-images.githubusercontent.com/89759208/131278306-9dd283cc-ed85-4359-a5de-022e9cce4ab5.png)  
          O conhecimento não possui mestres
-# Guia Para Acessar Praticamente Qualquer Livro ou Artigo 
+# Guia Para Acessar (Praticamente) Qualquer Livro ou Artigo 
 
 
 >"_Cada descoberta, cada progresso, cada aumento da riqueza da humanidade, tem o seu princípio no conjunto do trabalho manual e cerebral do passado e do presente. Logo, com que direito poderia alguém apossar-se da menor parcela desse imenso patrimônio e dizer: 'Isto é meu, não é vosso'?_"
