@@ -11,9 +11,9 @@ Piotr Kropotkin
 
 **SAPERE AUDE**
                                                                 
-### Introdução - Livre Acesso, Ciência Aberta e o Brasil Neoliberal
 
-**Sci-Hub**
+
+./**Sci-Hub**
  
  __O que é o sci-hub?__
          [Wikipédia](https://pt.wikipedia.org/wiki/Sci-Hub) ~ Um site que acessa muitos (não todos!) artigos (e alguns livros) acadêmicos que exigem pagamentos ultra-faturados. 
