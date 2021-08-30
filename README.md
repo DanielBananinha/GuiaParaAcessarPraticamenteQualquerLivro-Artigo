@@ -1,3 +1,4 @@
+![08fke4im9ib51](https://user-images.githubusercontent.com/89759208/131291123-d96ed046-37e2-4e94-b72c-49cf0b9f383c.jpg)
 ![Screenshot at 2021-08-29 20-42-38](https://user-images.githubusercontent.com/89759208/131278306-9dd283cc-ed85-4359-a5de-022e9cce4ab5.png)  
          O conhecimento não possui mestres
 # Guia Para Acessar (Praticamente) Qualquer Livro ou Artigo 
