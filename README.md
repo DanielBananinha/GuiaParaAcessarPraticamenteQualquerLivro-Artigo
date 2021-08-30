@@ -239,7 +239,7 @@ __Instruções para expropriar o livro baixado:__
     • Base de dados enorme expropriada do Bibliotik, um grupo de torrent fechado focado em livros. A maioria, talvez todos, já estão disponíveis no libgen
 
 [**Perlego**](https://z-lib.org/)
-    • Base de dados de e livros acadêmicos e textbooks. Download instructions here.
+    • Base de dados de e livros acadêmicos e textbooks. Esta exige um conta premium também. Ainda estamos trabalhando nos métodos de download.
 
 [**Ask for PDFs from People with Institutional Access**](https://www.facebook.com/groups/850609558335839/)
     • Um grupo de Facebook, o título é auto-explicativo ("peça PDF's para gente com acesso institucional"), infelizmente centrado no inglês, aqui segue o information guide e resource list.
