@@ -44,7 +44,7 @@ __Às vezes você ficará com o erro "500 Internal Server Error" ou "504 Gateway
 __Às vezes os artigos nas revistas do "Philosophy Documentation Center" (que é inacessivel pelo Sci-Hub) também estão disponíveis no JSTOR, Project Muse, etc., que costumam ser acessíveis para o Sci-Hub.  Se você desconfia que esse possa ser o caso, dê uma olhada no Google Scholar por todos os lugares em que o artigo está hospedado e tente os links não-PDC no Sci-Hub.__
     
 __Sci-Hub funciona em smartphone?__
-        ◦ Sim! Cole o URL ou DOI do jeito que você faria no desktop. Também existe um bot do Sci-Hub no Telegram, que é bem conveniente dado que não exige o teste CAPTCHA (porém esse método pode não funcionar em artigo ainda não arquivados na biblioteca própria do Sci-Hub).
+        ◦ Sim! Cole o URL ou DOI do jeito que você faria no desktop. Também existe um [bot do Sci-Hub no Telegram](https://telegram.me/scihubot), que é bem conveniente dado que não exige o teste CAPTCHA (porém esse método pode não funcionar em artigo ainda não arquivados na biblioteca própria do Sci-Hub).
     
 __“search temporarily unavailable, please use DOI or direct links” (pesquisa temporariamente indisponível, por favor use o DOI ou links diretos)?__
         ◦ Talvez você tenha colocado algo que não é o DOI ou o URL (ou de alguma maneira escreveu o DOI ou URL errado) e a busca foi interpretada como uma busca por título, mas a não ser que você tenha o plugin do Sci-Hub instalado, a busca por título não vai funcionar e vai te dar erros. Dê uma olhada para ver se você não esqueceu nenhum ponto final ou traço, ou escreveu algum caractere sem querer, etc.
