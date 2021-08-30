@@ -144,7 +144,7 @@ E pronto, agora basta encontrar o livro desejado e mandar a seguinte fórmula:
 
                                scribdl -p -c 'URL'
                                
-Um detalhe, o URL do livro deve ser pego não da página princípal do livro [Flosofia no Ensino Médio](https://www.scribd.com/book/472870923/Filosofia-no-Ensino-Medio), mas sim da página que abre quando você clicar em 'Read Preview', em baixo da fotinha do livro, [Aqui!](https://www.scribd.com/read/472870923/Filosofia-no-Ensino-Medio). Perceba o detalhe no link, ao invés de '/book/' está '/read/'. Só este funcionará.
+Um detalhe, o URL do livro deve ser pego não da página princípal do livro, exemplo [Flosofia no Ensino Médio](https://www.scribd.com/book/472870923/Filosofia-no-Ensino-Medio), mas sim da página que abre quando você clicar em 'Read Preview', em baixo da fotinha do livro, exemplo: [Aqui!](https://www.scribd.com/read/472870923/Filosofia-no-Ensino-Medio). Perceba o detalhe no link, ao invés de '/book/' está '/read/'. Só este funcionará.
 
 E assim vai ser expropriado o livro. Um detalhe final, como o 'download' do livro na verdade é o programa 'lendo' todo o livro no formato EPUB do site e convertendo o texto para PDF, o resultado final vai ter uma paginação bagunçada, não fora de ordem, apenas bagunçada. Mas quem quer ler não reclama!
 
