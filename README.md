@@ -154,6 +154,8 @@ E assim vai ser expropriado o livro. Um detalhe final, como o 'download' do livr
 [**Google Scholar**](https://scholar.google.com/)
     • Útil para achar todos os lugares em que um artigo foi publicado. Frequentemente um artigo restrito à pagamento pode ser encontrado em outros lugares gratuitamente, o Google Scholar oferece uma lista desses links. Mas nunca se esqueça que o Google é um dos grandes monópolios do capitalismo de vigilância e um inimigo da sua privacidade.
 
+[**Yandex**](https://yandex.com/)
+ - Um bom buscador para procurar livros e artigos. Ao contrário do senso comum o google não é uma boa ferramenta para se usar, pois censura ativamente sites de 'pirataria'. Para o cotidiano é recomendado usar o [DuckDuckGo](https://duckduckgo.com/), para pesquisas dedicadas o Yandex é surpreendentemente bom, consegue ser mais preciso que outros navegadores. O chato é ter de refazer um teste à cada nova buscar.
 
 [**Internet Archive**](https://archive.org/)
     • Possui muitos livros antigos, acadêmicos ou não. Alguns estão livres para download, outros só podem ser visualizados 'pedindo emprestado' virtualmente, uma conta (que pode ser feita gratuitamente) é exigida. Os livros emprestados, por uma hora ou 14 dias, podem lidos apenas dentro do software DRM. Existem métodos para baixar essa livro e possui-lo de fato, alguns mais trabalhosos outros que exigem conhecimentos de terminal (infelizmente preferimos esse, o 3, qual tal aprender uns truques hoje? dá para impressionar xs gatinhxs), segue a explicação:
