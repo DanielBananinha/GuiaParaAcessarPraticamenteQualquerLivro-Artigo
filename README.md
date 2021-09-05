@@ -20,6 +20,8 @@ __Uma tradução do [Guide to Finding Articles/Books](https://docs.google.com/do
         
  __Como funciona?__
           Pessoas generosas com acesso institucional dão suas credenciais para [Alexandra Elbakyan](https://pt.wikipedia.org/wiki/Alexandra_Elbakyan) (a fundadora), essas credenciais são usadas para acessar os artigos. Se o artigo já foi buscado e disponibilizado anteriormente, ele fica armazenado na biblioteca para que as solicitações futuras sejam atendidas instantaneamente. Novas solicitações podem demora um minuto para serem atendidas (uma barra de progresso aparece para demonstrar isso) enquanto o Sci-Hub tenta várias de suas credenciais para acessar o artigo. __Atualmente__ o Sci-Hub não tem expropriado novos artigos desde que entrou em um acordo com a Alta Corte de Nova Déli, em 2020, de que não expropriaria novos artigos durante o período de julgamente da ação ajuizada pelos grandes capitalistas da ignorância, como Elsevier, Wiley e American Chemical Society; existe uma chance de que a Alta corte decida pela legalidade do livre acesso universal, e nesse sentido tem se mobilizado a comunidade acadêmica-científica indiana, leia mais - [Quebrar patentes e liberar o conhecimento na pandemia](https://baixacultura.org/quebrar-patentes-e-liberar-o-conhecimento-na-pandemia/)
+          
+   :__Atualização 05/09__ Alexandra Elbakyan disse no twitter - https://twitter.com/ringo_ring/status/1434356217208623106 - que retomará o acesso à novos artigos dado o aniversário de 10 anos do Sci-Hub e a expiração da restrição do judiciário indiano!
   
 
 __O Sci-Hub obtem suas credenciais através de hackeamentos e outros métodos anti-éticos?__
