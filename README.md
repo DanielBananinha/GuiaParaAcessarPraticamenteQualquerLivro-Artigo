@@ -242,10 +242,7 @@ __Instruções para expropriar o livro baixado:__
     • Outra biblioteca similar ao Library Genesis. Raramente encontramos algo aí que não estava já no Libgen. (Novos uploads/envios para o Library Genesis costumam ser automaticamente compartilhados com o Z-Library, Essa é a regra da reciprocidade entre os piratas, desconhecida pelos mesquinhos capitalistas.)
 
 [**The Eye**](https://the-eye.eu/)
-    • Base de dados enorme expropriada do Bibliotik, um grupo de torrent fechado focado em livros. A maioria, talvez todos, já estão disponíveis no libgen
-
-[**Perlego**](https://z-lib.org/)
-    • Base de dados de e livros acadêmicos e textbooks. Esta exige um conta premium também. Ainda estamos trabalhando nos métodos de download.
+    • Base de dados enorme expropriada do Bibliotik, um grupo de torrent fechado focado em livros. A maioria, talvez todos, já está disponível no libgen
 
 [**Ask for PDFs from People with Institutional Access**](https://www.facebook.com/groups/850609558335839/)
     • Um grupo de Facebook, o título é auto-explicativo ("peça PDF's para gente com acesso institucional"), infelizmente centrado no inglês, aqui segue o information guide e resource list.
