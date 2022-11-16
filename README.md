@@ -1,9 +1,205 @@
 ![Screenshot at 2021-08-29 20-42-38](https://user-images.githubusercontent.com/89759208/131278306-9dd283cc-ed85-4359-a5de-022e9cce4ab5.png)  
          O conhecimento não possui mestres
-# Guia Para Acessar (Praticamente) Qualquer Livro ou Artigo 
+# Guia Para Acessar (Praticamente) Qualquer Livro ou Artigo  Ferramentas pessoais
 
+    wikEd
 
->"_Cada descoberta, cada progresso, cada aumento da riqueza da humanidade, tem o seu princípio no conjunto do trabalho manual e cerebral do passado e do presente. Logo, com que direito poderia alguém apossar-se da menor parcela desse imenso patrimônio e dizer: 'Isto é meu, não é vosso'?_"
+    Página principal
+    Conteúdo destacado
+    Eventos atuais
+    Esplanada
+    Página aleatória
+    Portais
+    Informar um erro
+
+Mudar para aparência antiga
+Colaboração
+
+    Boas-vindas
+    Ajuda
+    Página de testes
+    Portal comunitário
+    Mudanças recentes
+    Manutenção
+    Criar página
+    Páginas novas
+    Contato
+    Doar
+
+Ferramentas
+
+    Páginas afluentes
+    Mudanças relacionadas
+    Carregar arquivo
+    Páginas especiais
+    Link permanente
+    Informações da página
+    Citar esta página
+    Item no Wikidata
+    Monitorizar filtro
+    Monitorizar tudo
+    Monitorizar IPs
+    Monitorizar vigiados
+    Monitorizar ortografia
+    Editar links para outros idiomas
+
+Imprimir/exportar
+
+    Criar um livro
+    Baixar como PDF
+    Versão para impressão
+
+Idiomas
+Nesta Wikipédia, os atalhos de idioma estão na parte superior da página, em frente ao título do artigo.
+Pedro Lopes de Sousa (governador): mudanças entre as edições
+
+    Artigo
+    Discussão
+
+    Ler
+    Editar
+    Editar código-fonte
+    Ver histórico
+    Vigiar
+
+Mais
+
+Ajuda
+Origem: Wikipédia, a enciclopédia livre.
+Wikidata: Pedro Lopes de Sousa (Q7159717), 1.º capitão-geral da conquista do Ceilão
+Também conhecido como: Nenhum
+Edição das 03h35min de 3 de outubro de 2022 (editar)
+Jgqa56 (discussão | contribs)
+(Colocar armas da família Lopes de Sousa)
+Etiqueta: Edição visual
+← Edição anterior
+	
+Edição atual tal como às 02h27min de 16 de novembro de 2022 (editar) (desfazer) (agradecer)
+Jgqa56 (discussão | contribs)
+m (Caixa de sucessão)
+Etiqueta: Edição visual
+  [Marcar como patrulhada]
+	
+		
+	
+* D. Isabel de Sousa, que casou com Jorge de Albuquerque, filho do governador da índia [[Fernão de Albuquerque]], com geração.
+		
+* D. Isabel de Sousa, que casou com Jorge de Albuquerque, filho do governador da índia [[Fernão de Albuquerque]], com geração.
+	
+{{Referências}}
+	
+		
+	
+{{Começa caixa}}
+		
+{{Começa caixa}}
+	
+[[Categoria:Portugueses mortos em combate]]
+		
+[[Categoria:Portugueses mortos em combate]]
+	
+[[Categoria:Casa de Sousa]]
+		
+[[Categoria:Casa de Sousa]]
+	
+	
+	
+	
+== Referências ==
+	
+	
+	
+	
+<references />
+	
+Edição atual tal como às 02h27min de 16 de novembro de 2022 ↑
+Pedro Lopes de Sousa (governador)
+Pedro Lopes de Sousa, acompanhado pela nobreza de Cândia, recepciona a princesa Dona Catarina (1594)
+Governador de Ceilão Flag of Portugal (1521).svg
+Período 	maio de 1594 a outubro de 1594
+Antecessor(a) 	Novo cargo
+Sucessor(a) 	D. Jerónimo de Azevedo
+Dados pessoais
+Nascimento 	?
+Bordonhos, Portugal
+Morte 	09.10.1594
+Danture, Ceilão
+Progenitores 	Mãe: D. Isabel de Sousa
+Pai: Diogo Lopes de Sousa, senhor de Bordonhos
+Ocupação 	Fidalgo, Militar, Estadista
+
+Pedro Lopes de Sousa (Bordonhos,? - Danture, Ceilão, 1594), foi um fidalgo, militar e estadista português, nomeado 1.º capitão-geral da conquista do Ceilão em maio de 1594 e falecido na batalha de Danture, em outubro do mesmo ano.
+Biografia
+↑
+
+Era filho segundogênito de Diogo Lopes de Sousa, senhor de Bordonhos e dos padroados das respectivas Igrejas[1] e de sua mulher e prima, D. Isabel de Sousa[2].
+
+Fez a sua carreira no Estado da Índia, onde serviu como capitão de Malaca.
+
+Em 1594, na sequência de desenvolvimentos políticos em Ceilão - que a coroa portuguesa considerou terem aberto uma oportunidade para estender o domínio português a todo o território da ilha, nomeadamente através da subjugação do Reino de Cândia, que até então tinha resistido com sucesso à expansão portuguesa - Pedro Lopes de Sousa foi nomeado para o novo cargo de "capitão-geral da conquista do Ceilão" (os representantes máximos da coroa portuguesa em Ceilão, com sede em Cota, tinham usado a designação de "capitão" entre 1518 e 1551 e a de "capitão-mór" após essa data)[3].
+
+Chegou a Colombo, vindo de Goa, com tropas frescas para reforçar o potencial militar português, em maio de 1594. Poucos meses mais tarde, comandou um exército composto por portugueses e auxiliares locais, conhecidos pela designação de Lascarins, que invadiu o Reino de Cândia com o objetivo de lá colocar no trono a rainha legítima, Dona Catarina, uma criança entre os 10 e os 12 anos de idade, que estava sob proteção portuguesa e tinha trocado o seu nome de nascença de Kusumasani Devi ao ser baptizada[3].
+
+A primeira fase desta operação militar e política teve pleno sucesso: o rei de Cândia, Vimala Darma Suria, que pouco tempo antes havia usurpado o trono, fugiu para as montanhas em redor da capital[3] e Pedro Lopes de Sousa colocou no trono a princesa Catarina.
+
+Este êxito inicial não iria porém durar muito tempo. Os portugueses dificultaram o acesso da população de Cândia à rainha e isso fez com que começassem a circular rumores de que era sua intenção fazê-la casar com um fidalgo português (talvez o próprio governador), que criaram um clima de insatisfação geral entre o povo e a elite dirigente de Cândia; além disso, Pedro Lopes de Sousa fez executar o principal comandante dos Lascarins, sob suspeita de estar em conluio com Vimala Darma Suria, o que levou à imediata deserção em massa das tropas locais, auxiliares do exército português[3].
+
+Perante a nova realidade de correlação de força militar, que passara a ser altamente desfavorável para os portugueses, Lopes de Sousa decidiu que a única opção viável seria retirar o mais rapidamente possível da capital de Cândia. Mas Vimala Darma Suria veio-lhe no encalço[4], cortou-lhe a retirada em Danture, perto da capital, e aniquilou o exército português, incluindo o seu comandante, em 9 de outubro de 1594[4].
+
+A batalha de Danture foi um importante ponto de viragem na História de Reino de Cândia, que assegurou então a sua independência e conseguiria mantê-la por mais de dois séculos, apesar de novas tentativas de anexação por parte de portugueses, holandeses e ingleses, até o ano de 1815[3].
+
+A coroa portuguesa reagiu à derrota em Danture com a nomeação de um novo capitão-geral (D. Jerónimo de Azevedo) que chegou a Colombo, com reforços militares, em dezembro de 1594.
+Armas dos Lopes de Sousa, senhores e morgados de Bordonhos
+Descendência
+↑
+
+Casou duas vezes, a 1.ª vez com D. Bárbara de Melo, filha de Gaspar de Melo São Payo (ou Sampaio), desembargador da casa da Suplicação e sobrinha-neta de Fernão Vaz de Sampaio, senhor da casa de Vila Flor,[5] tiveram um filho[2]:
+
+    Diogo Lopes de Sousa, ferido na batalha de Danture, veio mais tarde a falecer desses ferimentos. Sem geração.[2]
+
+Casou pela 2.ª vez com D. Brites de Ataíde, filha de D. Diogo de Ataíde, capitão de Baçaim (que era neto paterno de D. Álvaro de Ataíde, senhor da Castanheira, Povos e Cheleiros e bisneto do 1.º conde de Atouguia) e de sua mulher Maria Antunes, com a seguinte descendência[2]:
+
+    Fradique Lopes de Sousa, capitão de Malaca, com geração, que em breve se extinguiu;
+
+    D. Isabel de Sousa, que casou com Jorge de Albuquerque, filho do governador da índia Fernão de Albuquerque, com geração.
+
+Referências ↑
+
+«Paróquia de Bordonhos, S. Pedro do Sul (abadia da apresentação dos Lopes de Sousa, Morgados de Bordonhos)». Arquivo Distrital de Viseu. 3 de maio de 2018. Consultado em 23 de setembro de 2019
+Gayo, Felgueiras (1938). Nobiliário das Famílias de Portugal, Tomo Vigésimo Quarto. Braga: Ed. Agostinho A. Meirelles e Domingos A. Afonso. pp. 79 – 119. Consultado em 22 de setembro de 2019
+Abeyasinghe, Tikiri (1966). Portuguese Rule in Ceylon, 1594 - 1612. Colombo, Sri Lanka: Lake House Investments Ltd. pp. 13 – 16
+Perera, C. Gaston (2007). Kandy Fights the Portuguese (A Military History of Kandyan Resistance). Sri Lanka: Vijith Yapa Publications. pp. 175 – 200
+
+    Costa, Paulo jorge Sousa (1 de janeiro de 2019). «SAMPAIO DA VILARIÇA: UM DOMÍNIO SENHORIAL NA IDADE MÉDIA». Revista Colégio Campos Monteiro – Espaço de Cultura e Memória. Consultado em 14 de agosto de 2022
+
+Precedido por
+Novo cargo 	Governador do Ceilão Português
+1594 — 1594 	Sucedido por
+D. Jerónimo de Azevedo
+
+[Marcar como patrulhada]
+Categorias:
+
+    Fidalgos de PortugalMilitares de PortugalGovernadores do Ceilão PortuguêsPortugueses mortos em combateCasa de Sousa
+
+    Esta página foi modificada pela última vez em 16 de novembro de 2022, às 02h27min.
+    Este texto é disponibilizado nos termos da licença Creative Commons - Atribuição - Compartilha Igual 3.0 Não Adaptada (CC BY-SA 3.0); pode estar sujeito a condições adicionais. Para mais detalhes, consulte as condições de uso.
+
+    Política de privacidade
+    Sobre a Wikipédia
+    Avisos gerais
+    Versão móvel
+    Desenvolvedores
+    Estatísticas
+    Declaração sobre cookies
+
+    Wikimedia Foundation
+    Powered by MediaWiki
+
+Pedro Lopes de Sousa (governador): mudanças entre as edições
+Adicionar tópico
+FastButtons
+A página foi editada com sucesso.
 
 >"_A lei é uma esperta mistura de costumes que são beneficiais à sociedade, e que poderiam ser seguidos mesmo que não houvessem leis, e outros que são favoráveis ao dominío da minoria, mas prejudiciais a massa dos homens (sic), e só podem ser impostos pelo terror_"
 
